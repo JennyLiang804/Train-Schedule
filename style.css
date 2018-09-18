@@ -1,0 +1,53 @@
+body{
+background: url("light.jpg");
+}
+
+.jumbotron {
+background: url("light.jpg");
+font-family: 'Source Serif Pro', serif;
+}
+
+.text-center {
+    width: 100%;
+    height: 180px;
+    background-color: rgba(0,0,0,0.3);
+    font-size: 65px;
+    color: rgb(228, 210, 196);
+    margin-top: -40px;
+    /* -webkit-animation: fadein 3s; */
+    text-shadow: 0 0 20px black; 
+}
+/* @-webkit-keyframes fadein { 
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+} */
+
+h1 {
+    padding: 3%;
+}
+
+.container {
+    background-color: rgba(0,0,0,0.3);
+    color: rgb(228, 210, 196);
+    text-shadow: 0 0 20px black; 
+}
+
+.input-container {
+max-width: 72.5%;
+margin-left: 20%;
+}
+
+.schedult-body {
+    color: black;
+}
+.card-body {
+    color: rgb(228, 210, 196);
+}
+
+.black-header {
+    color: rgb(228, 210, 196);
+}
